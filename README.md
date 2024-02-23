@@ -1,8 +1,6 @@
-Project Overview:
+# Project Overview:
 
-
-![Uploading image.png…]()
-
+![image](https://github.com/Rishitha-Dilshan/Devops-End-To-End/assets/87588442/9fbceae7-d29e-4472-b8c3-34208ad11864)
 
 
 
